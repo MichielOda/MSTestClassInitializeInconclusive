@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTestClassInitializeInconclusive", "MSTestClassInitializeInconclusive\MSTestClassInitializeInconclusive.csproj", "{7DAF06DD-64F8-485F-969E-843983A2D06E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTestClassInitializeInconclusive373", "MSTestClassInitializeInconclusive373\MSTestClassInitializeInconclusive373.csproj", "{73F9C34C-FA40-03CD-D343-12F576402552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DAF06DD-64F8-485F-969E-843983A2D06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAF06DD-64F8-485F-969E-843983A2D06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAF06DD-64F8-485F-969E-843983A2D06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAF06DD-64F8-485F-969E-843983A2D06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F9C34C-FA40-03CD-D343-12F576402552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F9C34C-FA40-03CD-D343-12F576402552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F9C34C-FA40-03CD-D343-12F576402552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F9C34C-FA40-03CD-D343-12F576402552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CFFC6F0-23F4-406A-AB16-C9306C27E7B6}
+	EndGlobalSection
+EndGlobal
